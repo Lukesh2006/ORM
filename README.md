@@ -40,6 +40,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 ![alt text](<Screenshot 2024-11-26 173604.png>)
+![orm 1](https://github.com/user-attachments/assets/f94037f0-e58d-4b03-89f7-cd86a2c18bd3)
 
 Include the screenshot of your admin page.
 
