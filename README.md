@@ -39,8 +39,12 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 ```
 # OUTPUT
-![alt text](<Screenshot 2024-11-26 173604.png>)
-![orm 1](https://github.com/user-attachments/assets/f94037f0-e58d-4b03-89f7-cd86a2c18bd3)
+
+![Screenshot 2024-12-12 185612](https://github.com/user-attachments/assets/6017fb2b-aa76-4376-a34a-aca335d5c0cb)
+![Screenshot 2024-12-12 185735](https://github.com/user-attachments/assets/3f5bb618-1bf0-4786-ad48-447d5fb91d2c)
+
+
+
 
 Include the screenshot of your admin page.
 
