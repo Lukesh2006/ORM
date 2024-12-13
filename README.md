@@ -15,6 +15,10 @@ Enter the code for admin.py and models.py
 
 ## STEP 4:
 Execute Django admin and create details for 10 books
+# ER DIAGRAM :
+![ER diagram](https://github.com/user-attachments/assets/bca5e02b-9b4d-4271-99fd-3723a9fc1ab1)
+
+
 
 # PROGRAM 
 ```
